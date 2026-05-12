@@ -1,0 +1,1 @@
+// This page is not required, as the app is frontend-only and uses localStorage.
